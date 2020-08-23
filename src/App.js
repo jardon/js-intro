@@ -15,9 +15,8 @@ class App extends Component {
   // getData = async () => await axios.get('https://pokeapi.co/api/v2/pokemon?limit=3');
 
   // componentDidMount() {
-  //   if(this.state.data === null) 
-  //     this.getData()
-  //     .then(data => this.setState({data}));
+  //   this.getData()
+  //   .then(data => this.setState({data}));
   // }
 
   render() {
