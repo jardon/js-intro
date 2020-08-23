@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 class StatelessCC extends Component {
     render() { 
         return ( 
-            <span>{this.props.title}</span>
+            <div>{this.props.title}</div>
          );
     }
 }

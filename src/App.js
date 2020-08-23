@@ -9,13 +9,10 @@ function App() {
   return (
     <div className="App">
       <StatefulCC/>
-      <br></br>
       <StatelessCC
         title='StatelessCC'
       />
-      <br></br>
       <StatefulFC/>
-      <br></br>
       <StatelessFC
         title='StatelessFC'
       />

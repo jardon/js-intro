@@ -6,7 +6,7 @@ const StatefulFC = () => {
     if(title !== 'StatefulFC') setTitle('StatefulFC');
 
     return (
-        <span>{title}</span>
+        <div>{title}</div>
     )
 }
 

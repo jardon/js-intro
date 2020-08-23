@@ -11,7 +11,7 @@ class StatefulCC extends Component {
 
     render() { 
         return ( 
-            <span>{this.state.title}</span>
+            <div>{this.state.title}</div>
          );
     }
 }
